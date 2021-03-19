@@ -1,5 +1,5 @@
 # ALUNO
-André Ricardo
+André Ricardo Pereira Silva
 
 # CURSO
 Engenharia de computação (AX)
