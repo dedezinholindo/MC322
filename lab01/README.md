@@ -4,4 +4,4 @@ Este lab pretende execitar estratégias de criação de programas buscando mostr
 
 Composto por 5 execícios na Primeira parte do problema.
 
-[Notebook 1](/notebook/emprestimo01-ra231391.ipynb)
+[Notebook 1](/lab01/notebook/emprestimo01-ra231391.ipynb)
